@@ -10,5 +10,5 @@ Reach me out 👇🏼
 
 
 ## 🛠 Skills
-HTML, CSS, C#, .NET, Entity Framework, SQL Server, API REST, Postman, AzureDevOps
+HTML, CSS, C#, .NET, Entity Framework, SQL Server, API REST, Postman, AzureDevOps, Dapper.
 
