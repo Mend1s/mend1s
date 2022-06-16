@@ -22,7 +22,7 @@
 </div>
 
 ###
-<h2 align="left">Social media 📱</h2>
+<h2 align="left">Social medias 📱</h2>
 
 ###
 <div align="left">
