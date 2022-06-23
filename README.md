@@ -1,7 +1,7 @@
 <h2 align="left">Hello, i'm André Mendes👨‍💻</h2>
 
 ###
-<p align="left">I'm a .NET developer and I've been studying computing since 2020. 💻<br><br>I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.<br><br>Currently, I study C# with a focus on WEB applications (API Rest, MVC with ASP.NET CORE).</p>
+<p align="left">I'm a .NET developer and I've been studying computing since 2020. 💻<br><br>I am passionate about solving problems and learning. Always open to new challenges and ready to face changes. 🦅<br><br>Currently, I study C# with a focus on WEB applications (API Rest, MVC with ASP.NET CORE).</p>
 
 ###
 <h2 align="left">Technologies 🛠</h2>
